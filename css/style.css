@@ -1,0 +1,27 @@
+
+body {
+    background-color: #1d1d1d;
+}
+
+.header {
+    background-color: #131313;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+.column-2 {
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+
+.header img {
+    size: 10%;
+}
+
+
+.header h1 {
+
+    color: white;
+}
